@@ -1,0 +1,5 @@
+{
+  "name": "Linear Equation Visualizer",
+  "description": "An interactive tool to visualize linear equations (y = mx + c) using Mafs and React. Adjust slope and intercept in real-time.",
+  "requestFramePermissions": []
+}
