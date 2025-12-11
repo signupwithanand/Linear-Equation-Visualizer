@@ -49,10 +49,11 @@ Don't just look at the screen—**interact** with it! This is the key to locking
 
 ## 🛠️ For Teachers & Developers: Technical Setup
 
-If you want to run this project on your own computer or contribute to the code, follow these steps.
+This project uses **Next.js 14**, **Tailwind CSS**, and **Supabase**.
 
 ### Prerequisites
 *   Node.js installed on your machine.
+*   Supabase project (optional for basic graph).
 
 ### Installation & Running
 1.  **Clone the repository**:
@@ -70,7 +71,7 @@ If you want to run this project on your own computer or contribute to the code, 
     ```bash
     npm run dev
     ```
-    Open your browser to the URL shown (usually `http://localhost:5173`).
+    Open your browser to the URL shown (usually `http://localhost:3000`).
 
 ---
 
