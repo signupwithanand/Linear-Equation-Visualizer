@@ -74,4 +74,4 @@ If you want to run this project on your own computer or contribute to the code, 
 
 ---
 
-<p align="center">Made with ❤️ for Math Lovers</p>
+
